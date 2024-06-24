@@ -15,5 +15,5 @@ The task description can be found in Assignment.pdf
 - If you have not registered yet
   - Register and follow guidelines above depending on outcome
 - Anything else?
-  - bjornar.vassoy@ntnu.no
+  - dt8122@idi.ntnu.no
 
